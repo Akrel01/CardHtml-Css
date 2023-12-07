@@ -8,7 +8,7 @@
 }
 
 body{
-    height: 750px;
+    height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -40,7 +40,7 @@ img{
     display: flex;
     flex-direction: column;
     width: 90%;
-    gap: 15px;
+    gap: 23px;
     border: solid white;
 }
 
